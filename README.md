@@ -31,9 +31,9 @@ Il sistema permette al robot **Furhat** di dialogare con una persona, adattando 
 ---
 
 ## 📂 Struttura della repository
-/client_python # codice client in Python
-/server_c # codice server in C
-/docs # documentazione, relazioni, specifiche
+- **client_python** → codice client in Python.  
+- **server_c** → odice server in C.  
+- **docs** → documentazione, relazioni, specifiche.  
 
 ---
 
