@@ -11,7 +11,7 @@ Il sistema permette al robot **Furhat** di dialogare con una persona, adattando 
   - Riceve i dati di personalità dal client.  
   - Applica la logica decisionale per determinare il comportamento del robot.  
 
-- **Client (Python/Kotlin)**  
+- **Client (Python)**  
   - Somministra il questionario TIPI (Ten Item Personality Inventory).  
   - Calcola i punteggi dei tratti di personalità (Big Five).  
   - Comunica col server tramite socket.  
